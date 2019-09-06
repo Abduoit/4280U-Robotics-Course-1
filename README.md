@@ -52,15 +52,4 @@ The simulation should start now, random objects will be falling on the conveyor.
 
 
 
-```python create_obj.py```
-
-
-
-
-
-
-```python create_obj.py```
-
-
-
 
