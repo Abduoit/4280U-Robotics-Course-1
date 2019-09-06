@@ -1,7 +1,7 @@
 # Project Title
 MANE 4280U-Robotics-Course
 
-![alt text](/home/abdu/Pictures/pose/Selection_004.jpg)
+![alt text](https://github.com/Abdul-UOiT/4280U-Robotics-Course/blob/master/Selection_026.jpg)
 
 ## Getting Started
 This repositry provides the essential files, and getting started instructions.
