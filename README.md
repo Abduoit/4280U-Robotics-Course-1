@@ -16,7 +16,7 @@ This repository provides the essential documentation and getting-started instruc
 
 * Open the [Project Link](https://github.com/Abdul-UOiT/4280U-Robotics-Course.git), and download it from ```clone or download```
 
-OR open a terminal and type 
+       OR open a terminal and type 
 
 ```cd ~```
 
