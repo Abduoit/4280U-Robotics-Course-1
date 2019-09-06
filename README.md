@@ -12,12 +12,10 @@ It was tested with ```V-REP_PRO_EDU_V3_4_0_Linux``` and ```O.S./Linux/Ubuntu 16.
 ### Prerequisites
 
 
-* Download V-REP from [V-REP](http://www.coppeliarobotics.com/previousversions.html) - Previous Versions of V-REP
-
-Extract the file ```zip``` into home directory 
+* Download V-REP from [V-REP](http://www.coppeliarobotics.com/previousversions.html) - Previous Versions of V-REP. Extract the file ```zip``` into home directory.
 
 
-* Download 
+* Open the [Project Link](https://github.com/Abdul-UOiT/4280U-Robotics-Course.git), and download 
 
 or open a terminal and type ```git clone https://github.com/Abdul-UOiT/4280U-Robotics-Course.git```
 
