@@ -48,8 +48,6 @@ You will have the main window of V-REP with empty scene, open new scene from the
 
 ```python create_obj.py```
 
-The simulation should start now, random objects will be falling on the conveyor.
-
-
+The simulation should start now, random objects will be falling on the conveyor. The conveyor stops moving once the object interrupts the laser.
 
 
