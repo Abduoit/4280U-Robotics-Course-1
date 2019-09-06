@@ -1,7 +1,8 @@
 # Project Title
 MANE 4280U-Robotics-Course
 
-![alt text](home/abdu/Pictures/pose/Selection_004.jpg)
+![alt text](/home/abdu/Pictures/pose/Selection_004.jpg)
+
 ## Getting Started
 This repositry provides the essential files, and getting started instructions.
 This project was tested with ```V-REP_PRO_EDU_V3_4_0_Linux``` and ```Ubuntu 16.04 LTS```
