@@ -14,9 +14,7 @@ This repository provides the essential documentation and getting-started instruc
 * Download from [V-REP](http://www.coppeliarobotics.com/previousversions.html). Make sure to use this version[```V-REP 3.4.0 PRO EDU```]. Extract the file ```zip``` into home directory.
 
 
-* Open the [Project Link](https://github.com/Abdul-UOiT/4280U-Robotics-Course.git), and download it from ```clone or download```
-
-       OR open a terminal and type 
+* Open the [Project Link](https://github.com/Abdul-UOiT/4280U-Robotics-Course.git), and download it from ```clone or download```slide-tool. OR open a terminal and type: 
 
 ```cd ~```
 
@@ -45,6 +43,13 @@ Open new terminal and run the test python file ```create_obj.py```
 ```cd ~```
 
 ```cd 4280U-Robotics-Course-master```
+
+```python create_obj.py```
+
+
+
+
+
 
 ```python create_obj.py```
 
