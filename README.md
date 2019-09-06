@@ -32,4 +32,5 @@ You will have the main window of V-REP with empty scene, open new scene from the
 ```file---> open scene--->/path/to/4082U-Robotics-Course/scene/simulation-robotics-course.ttt```
 
 ```cd 4280U-Robotics-Course-master```
+
 ```python create_obj.py```
