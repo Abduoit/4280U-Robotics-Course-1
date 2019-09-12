@@ -39,7 +39,7 @@ This step should start the simulation and create objects randomly.
 
 You will have the main window of V-REP with empty scene, open new scene from the upper-left-side bar, 
 
-```file--->open scene--->/path/to/4280U-Robotics-Course-master/scene/simulation-robotics-course.ttt```
+```file--->open scene--->/path/to/4280U-Robotics-Course-master/scene/simulation.ttt```
 
 
 2- Open new terminal and run the test python file ```create_obj.py```
